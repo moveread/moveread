@@ -18,6 +18,7 @@
 - Core: [repo](https://github.com/moveread/core)
 - OCR: [repo](https://github.com/moveread/ocr)
 - Chess Transformer: [repo](https://github.com/moveread/chess-transformer)
+- Semi-automatic annotation: [repo](https://github.com/moveread/annotation)
 
 ## Internal
 - DFY Dashboard: [repo](https://github.com/moveread/dashboard)
