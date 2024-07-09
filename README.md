@@ -11,6 +11,7 @@
 - Scoresheet Models: [repo](https://github.com/moveread/scoresheet-models)
 - React components: [repo](https://github.com/moveread/react)
 - Chess Utilities: [repo](https://github.com/moveread/chess)
+- Scraping: [repo](https://github.com/moveread/scraping)
 
 ## R&D
 - Robust Extraction (v2): [repo](https://github.com/moveread/robust-extraction)
