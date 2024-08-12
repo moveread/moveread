@@ -4,7 +4,7 @@
 
 ## Public
 - Landing page: ([moveread.com](https://moveread.com)), [repo](https://github.com/moveread/landing)
-- DFY webapp + api: ([dfy.moveread.com](https://dfy.moveread.com)), [repo](https://github.com/moveread/dfy)
+- Moveread for Tournaments: ([tnmt.moveread.com](https://tnmt.moveread.com)), [repo](https://github.com/moveread/tnmt)
 
 ## Libs
 - Scoresheet Models: [repo](https://github.com/moveread/scoresheet-models)
